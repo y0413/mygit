@@ -8,6 +8,7 @@ public class Test {
         System.out.println("闫鹏冲");
         System.out.println("房安迪");
         System.out.println("第二次测试");
-        System.out.println("第三次测试");
+        System.out.println();
+        System.out.println("我是安迪小淘气，每天面对世界很好奇");
     }
 }
